@@ -1,0 +1,37 @@
+body
+{
+    background-color: #364958;
+    text-align: center;
+    font-size: 28px;
+}
+#board
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 640px;
+    margin-top: 100px;
+    border: solid black 2px;
+
+}
+.tile2
+{
+    float:left;
+    background-color: #769656;
+    width: 60px;
+    height: 60px;
+    padding: 10px;
+    line-height: 60px;
+    filter: brightness(0.8);
+
+}
+.tile1
+{
+    float:left;
+    background-color: #eeeed2;
+    width: 60px;
+    height: 60px;
+    padding: 10px;
+    line-height: 60px;
+    filter: brightness(0.8);
+
+}
